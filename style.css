@@ -20,15 +20,15 @@ html {
   --text-color-dark: #b0b3b8;
   --blue-color: #1877f2;
   --blue-color-2: #e9f5ff;
-  --outer-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+  --outer-shadow-dark: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
-  --outer-shadow-o: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+  --outer-shadow-dark-o: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.7),
     inset 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
     inset -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
-  --outer-shadow-dark: 6px 6px 10px -1px rgba(0, 0, 0, 0.3),
+  --outer-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.3),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.1);
-  --outer-shadow-dark-o: 6px 6px 10px -1px rgba(0, 0, 0, 0.3),
+  --outer-shadow-o: 6px 6px 10px -1px rgba(0, 0, 0, 0.3),
     -6px -6px 10px -1px rgba(255, 255, 255, 0.1),
     inset 6px 6px 10px -1px rgba(0, 0, 0, 0.3),
     inset -6px -6px 10px -1px rgba(255, 255, 255, 0.1);
